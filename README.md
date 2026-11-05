@@ -20,7 +20,8 @@ En fullstack-applikation för att hålla koll på utgifter, kategorisera transak
 
 1. Clone the repository
 
-git clone https://github.com/Lilooo73/spendwise.git cd spendwise
+git clone https://github.com/Lilooo73/spendwise.git
+cd spendwise
 
 2. Start with Docker Compose
 
