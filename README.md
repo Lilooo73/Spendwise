@@ -24,5 +24,5 @@ Det enda som behövs för att köra igång är att Docker är installerat på da
 
 1. Klona repot:
    ```bash
-   git clone (https://github.com/Lilooo73/spendwise.git)
+   git clone [https://github.com/Lilooo73/spendwise.git](https://github.com/Lilooo73/spendwise.git)
    cd spendwise
